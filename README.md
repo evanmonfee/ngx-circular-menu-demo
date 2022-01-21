@@ -17,7 +17,7 @@ Now install  `ngx-circular-menu`  via npm:
 Once installed you need to import the main module:
 
 ```javascript
-import { NgxCircularMenuModule } from  'dist/ngx-circular-menu'; <---
+import { NgxCircularMenuModule } from  'ngx-circular-menu'; <---
 
  @NgModule({
     declarations: [
