@@ -22,7 +22,6 @@ import { NgxCircularMenuModule } from  'dist/ngx-circular-menu'; <---
  @NgModule({
     declarations: [
     AppComponent,
-    RadialMenuComponent,
     ],
     imports: [
     BrowserModule,
